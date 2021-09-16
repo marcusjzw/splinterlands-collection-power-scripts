@@ -1,9 +1,6 @@
 import requests
 from collections import defaultdict
-from tkinter import *
 import json
-
-# GUI RELATED FUNCTIONS
 
 def jprint(obj):
     # create a formatted string of the Python JSON object
